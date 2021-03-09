@@ -147,8 +147,8 @@ li {
     top: 0;
     left: 0;
     width: 100%;
-    background-color: rgb(32, 180, 180);
-    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.12);
+    background-color: lightskyblue;
+    box-shadow: 0 0 0px lightskyblue, 0 0 0px lightskyblue, 0 0 10px rgb(67, 181, 251);
     z-index: 102;
 }
 

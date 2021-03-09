@@ -240,10 +240,10 @@ function polarisMsg() {
 
 function deetSubmit() {
     canvas.clear()
-    document.getElementById('name').value = "Submitted";
-    document.getElementById('mail').value = "Submitted";
-    document.getElementById('topic').value = "Submitted";
-    document.getElementById('msg').value = "Thanks for your submission, I'll Reach back soon!";
+    document.getElementById('name').value = "!";
+    document.getElementById('mail').value = "!";
+    document.getElementById('topic').value = "!";
+    document.getElementById('msg').value = "Thanks for your submission but this feature is still in development. Please try again later!";
 
 
     // document.getElementById('name').value = "";

@@ -258,3 +258,20 @@ function deetClr() {
     document.getElementById('topic').value = "";
     document.getElementById('msg').value = "";
 }
+
+var Carousel = new Swiper('.projNew', {
+    effect: 'coverflow',
+    grabCursor: true,
+    centeredSlides: true,
+    slidesPerView: 'auto',
+    coverflowEffect: {
+        rotate: 50,
+        stretch: 0,
+        depth: 100,
+        modifier: 1,
+        slideShadows: true,
+    },
+    loop: true,
+    autoplay: { disableOnInteraction: false, delay: 2500, },
+
+});

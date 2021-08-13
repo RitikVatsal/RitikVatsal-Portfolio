@@ -586,27 +586,27 @@ a.dwnld:hover {
 }
 
 .skillOf.jav {
-    width: 95%;
-}
-
-.skillOf.py {
-    width: 95%;
-}
-
-.skillOf.cpp {
-    width: 80%;
-}
-
-.skillOf.html {
-    width: 80%;
-}
-
-.skillOf.js {
     width: 75%;
 }
 
+.skillOf.py {
+    width: 75%;
+}
+
+.skillOf.cpp {
+    width: 60%;
+}
+
+.skillOf.html {
+    width: 60%;
+}
+
+.skillOf.js {
+    width: 55%;
+}
+
 .skillOf.acc {
-    width: 90%;
+    width: 80%;
 }
 
 .skillname .tot100 {
